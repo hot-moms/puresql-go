@@ -1,5 +1,5 @@
 # puresql-go  #
-***Tiny (pure bytes.Buffer) implementation of SQL Query Builder***
+***Tiny (pure bytes.Buffer) and opinionated implementation of SQL Query Builder***
 
 Download:
 ```go get github,com/hot-moms/puresql-go@latest```
@@ -12,7 +12,15 @@ With puresql-go, building SQL queries is as simple as writing out the desired qu
 
 By utilizing Golang's powerful byte-based buffer system, puresql-go provides superior performance and precision in generating valid SQL scripts. Get started quickly and with ease by leveraging this versatile tool for all your SQL query building needs.
 
-
+### TODO:
+- [X] ADD clauses
+- [X] Equal to X
+- [X] Contained by X
+- [X] Any of X
+- [X] Field is X (type)
+- [X] Compare field with X
+- [X] Between X and Y
+- [ ] OR clauses
 
 ### Usage ###
 
