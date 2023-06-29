@@ -2,7 +2,7 @@
 ***Tiny (pure bytes.Buffer) and opinionated implementation of SQL Query Builder***
 
 Download:
-```go get github,com/hot-moms/puresql-go@latest```
+```go get github.com/hot-moms/puresql-go@latest```
 
 Package *puresql-go* is a lightweight implementation of an SQL query builder written purely in Golang's bytes.Buffer.
 
